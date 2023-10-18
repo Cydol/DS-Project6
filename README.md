@@ -115,4 +115,4 @@ from the pipeline run to check that it indeed contains the transformed sales dat
 ---
 ### Conclusion
 ---
-Perform a series of data-related activities through guided labs to gain hands-on experience working with **Microsoft Azure Synapse Analytics**.
+Performed a series of data-related activities through guided labs to gain hands-on experience working with **Microsoft Azure Synapse Analytics**.
